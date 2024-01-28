@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\thara\\.gradle\\daemon\\8.2\\com.example.databindingexample.app-mergeDebugResources-34:\\layout\\activity_getdata_online.xml",
+        "source": "C:\\Users\\thara\\.gradle\\daemon\\8.2\\com.example.databindingexample.app-main-37:\\layout\\activity_getdata_online.xml"
+    },
+    {
+        "merged": "C:\\Users\\thara\\.gradle\\daemon\\8.2\\com.example.databindingexample.app-mergeDebugResources-34:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\thara\\.gradle\\daemon\\8.2\\com.example.databindingexample.app-main-37:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.databindingexample.app-mergeDebugResources-34:/layout/activity_getdata_online.xml",
+        "source": "com.example.databindingexample.app-main-37:/layout/activity_getdata_online.xml"
+    }
+]

@@ -1,0 +1,20 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id et_name
+id submit_btn
+id tv_user_email
+id tv_user_name
+id tv_welcomeText
+layout activity_getdata_online
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.DatabindingExample
+style Theme.DatabindingExample
+xml backup_rules
+xml data_extraction_rules
